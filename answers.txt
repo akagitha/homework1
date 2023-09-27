@@ -1,1 +1,4 @@
+What is a remote repository?
 
+a remote repository is a collaboaritve location for teams to work on a 
+server. It is useful so people can push there work onto one server.
